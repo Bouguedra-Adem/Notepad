@@ -1,0 +1,11 @@
+{
+"name":"BLOC notes ",
+"manifest_version": 2,
+"version":"1.0",
+"description":"sauvgarder les information",
+"browser_action":
+	{
+		 "default_icon": "b.png",
+		 "default_popup":"popup.html"
+	}
+}
